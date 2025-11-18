@@ -1,0 +1,138 @@
+body{
+    font: 15px/1.5 Arial, Helvetica, sans-serif;
+    padding: 0;
+    margin: 0;
+    background: radial-gradient(hsl(256, 89%, 41%), #b97105 75%);
+}
+/*this is a  header section*/
+
+/*header section*/
+
+
+/*card*/
+#container-nefor{
+    padding: 2px;
+    margin: 5px;  
+}
+#container-nefor h1{
+    text-align: center;
+}
+/* duties on our mission*/
+#container-nefor span{
+    color: white;
+    font-size: 40px;
+}.Nefor8{
+    background-color: #e84914;
+}
+.health1{
+    height:200px;
+    width: 200px;
+    border-radius: 100%;
+    float: left;
+    shape-outside: circle(150px);
+    shape-margin: 10px;
+    margin-right: 10px;
+    filter: drop-shadow(7px 7px 7px #666666);
+}
+.health{
+    height:150px;
+    width: 150px;
+    float: right;
+    border-radius: 100%;
+    shape-margin: 10px;
+    margin-right: 10px;
+    background: radial-gradient(hsl(256, 89%, 41%), #b97105 75%);
+}
+
+.jpn{
+    text-align: justify;
+    font-size: 1rem;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 2px;
+    margin: 2px;
+}
+.Agri1{
+    height:200px;
+    width: 200px;
+    border-radius: 100%;
+    float: left;
+    shape-outside: circle(150px);
+    shape-margin: 10px;
+    margin-right: 10px;
+    filter: drop-shadow(7px 7px 7px #666666);
+}
+.Agri{
+    height:95px;
+    width: 95px;
+    float: right;
+    border-radius: 100%;
+    shape-margin: 10px;
+    margin-right: 10px;
+    background: radial-gradient(hsl(256, 89%, 41%), #b97105 75%);
+}
+.educate1{
+    height:150px;
+    width:150px;
+    border-radius:100%;
+    shape-margin: 10px;
+    margin-right: 10px;
+    float: left;
+    background: radial-gradient(hwb(120 5% 22%), hsl(246, 95%, 37%) 75%);
+}
+.p{
+    text-align: justify;
+    font-size: 1rem;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 2px;
+    margin: 2px;
+    color: aliceblue;
+}
+.Education{
+    height:100px;
+    width:100px;
+    border-radius:100%;
+    shape-margin: 10px;
+    margin-right: 5px;
+    float: right;
+    background: radial-gradient(hwb(120 5% 22%), hsl(246, 95%, 37%) 75%);
+}
+
+
+/* end of duties on our mission*/
+
+/*end of card*/
+
+
+
+/*link buttons*/
+#MORE-ABOUT-AGRICULTURE{
+    background-color: #ff0000;
+}
+section h2{
+    color: #ffffff;
+    font-size: 2.1em;
+    font-weight: 200;
+    text-align: center;
+    margin-bottom: 0.2em;
+}
+
+/*END OF LINKS BUTTONS*/
+.wrapper .button:hover{
+    width: 200px;
+}
+
+.wrapper{
+    margin-left:320px;
+    width: 65%;
+    padding: 10px;
+}
+.wrapper .button .icon{
+    display: inline-block;
+    height: 40px;
+    width: 40px;
+    text-align: center;
+    border-radius: 40px;
+    box-sizing: border-box;
+    line-height: 40px;
+    transition: all 0.3s ease-out;
+}
