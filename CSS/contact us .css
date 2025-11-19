@@ -387,7 +387,7 @@ background-image: url(../img/img1.jpg);
 /*media*/
 @media(max-width: 850px){
     .form1{
-        grid-template-columns: 1fr;
+        grid-template-columns:2fr;
     }
     .contact-nefor-information:before{
         bottom: initial;
@@ -584,4 +584,5 @@ span{
 span{
     color: lch(84.03% 103.96 139.59);
     font: size 15px;
+
 }
