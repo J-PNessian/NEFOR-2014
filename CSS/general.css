@@ -248,7 +248,7 @@ span{
         width:50px;
         height: auto;
     }
-    #branding h3 {
+     header #branding h3 {
         font-size: 10px;
     }
     .card-content h2 {
@@ -261,5 +261,6 @@ span{
         font-size: 1rem;
     }
 }
+
 
 
