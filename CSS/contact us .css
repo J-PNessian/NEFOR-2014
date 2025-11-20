@@ -588,25 +588,25 @@ span{
 /* For devices with a max width of 480px (Mobile Phones) */
 @media (max-width: 480px){
 #nefor-showcase{
-    min-height: 200px;
-    background: url("../img/img5.jpg") no-repeat 0 -200px;
+    min-height: 100px;
+    background: url("../img/img5.jpg") no-repeat 0 -100px;
     text-align: center;
     color: #ffffff;
     padding-top: 2px;
 }
     header img {
-        width:47px;
+        width:15px;
         height: auto;
     }
     header #branding h3 {
         font-size: 11px;
     }
    header a{
-    font-size: 12px;
+    font-size: 11px;
      padding:0;
      color: green;
     cursor: pointer;
-    margin-top: 20;
+    margin-top:100;
 }
 header nav{
     float:left;
@@ -619,20 +619,20 @@ header nav{
 }
     #nefor-showcase img{
     float:right;
-    width: 20%;
-    height: 20px;
+    width: 10%;
+    height: 15px;
     padding: 3px 2px 2px 2px ;
 }
 #nefor-showcase h3{
-    margin-top:10px;
-    font-size:10px;
+    margin-top:5px;
+    font-size:5px;
     margin-bottom:5px;
     text-transform: uppercase;
     float: left;
     padding-left: 5px;
 }
 #nefor-showcase p{
-    margin-top:10px;
+    margin-top:5px;
     font-size:8px;
     float: left;
     background-color:red;
