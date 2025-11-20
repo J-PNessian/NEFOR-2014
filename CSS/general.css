@@ -245,18 +245,18 @@ span{
 /* For devices with a max width of 480px (Mobile Phones) */
 @media (max-width: 480px) {
     header img {
-        width:40px;
+        width:30px;
         height: auto;
     }
      header #branding h3 {
-        font-size:8px;
+        font-size:7px;
     }
      header a{
-    font-size:10px;
+    font-size:8px;
      padding:0;
-     color: green;
+     color: blue;
     cursor: pointer;
-    margin-top: 20;
+    margin-top:10;
 }
 header nav{
     float:left;
@@ -268,13 +268,13 @@ header nav{
  
 }
     .card-content h2 {
-        font-size: 1rem;
+        font-size: 0.6rem;
     }
     .card-content p {
-        font-size: 0.9rem;
+        font-size: 0.5rem;
     }
     footer h3 {
-        font-size: 1rem;
+        font-size: 10px;
     }
    
     .Agri1{
@@ -309,6 +309,7 @@ header nav{
     
 }
     
+
 
 
 
