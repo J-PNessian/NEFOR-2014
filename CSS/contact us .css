@@ -663,8 +663,8 @@ text-transform: uppercase;
     display: grid;
     grid-template-columns: repeat(2, 1fr) 
 }
-    /* For devices with a min width of 480px (Mobile Phones) */
-@media (min-width: 480px){
+    /* For devices with a min width of 460px (Mobile Phones) */
+@media (max-width: 460px){
 #nefor-showcase{
     min-height: 100px;
     text-align: left;
@@ -744,6 +744,7 @@ text-transform: uppercase;
 }
 
 /*end of media*/
+
 
 
 
