@@ -656,9 +656,21 @@ padding: 2px;
 font-size:8px;
 text-transform: uppercase;
 }
+    form{
+    width: 50%;
+    max-width: 400px;
+    background-color:#ffffff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px 1px rgb(0, 0, 0, 0.1);
+    z-index: 500;
+    overflow: hidden;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr) 
+}
 }
 
 /*end of media*/
+
 
 
 
