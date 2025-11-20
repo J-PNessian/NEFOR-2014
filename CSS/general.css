@@ -280,7 +280,7 @@ header nav{
     .Agri1{
     height:80px;
     width: 80px;
-    border-radius: 100%;
+    border-radius: 80%;
     float: left;
     shape-outside: circle(100px);
     shape-margin:5px;
@@ -302,13 +302,13 @@ header nav{
     width: 80px;
     float: right;
     border-radius: 80%;
-    shape-margin: 10px;
-    margin-right: 10px;
+    shape-margin:8px;
+    margin-right:8px;
     background: radial-gradient(hsl(256, 89%, 41%), #b97105 75%);
 }
   .Nefor8{
     text-align: justify;
-    font-size: 9px;
+    font-size: 8px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     padding:1px;
     margin: 1px;
@@ -316,19 +316,17 @@ header nav{
 }
     .jpn{
     text-align: justify;
-    font-size: 9px;
+    font-size:8px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     padding:1px;
-    margin: 1px;
-    
+    margin: 1px;  
 }
 .p{
     text-align: justify;
-    font-size: 9px;
+    font-size: 8px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     padding:1px;
-    margin: 1px;
-    
+    margin: 1px;   
 }
     section h2{
     color: #ffffff;
@@ -339,6 +337,7 @@ header nav{
 }  
 }
     
+
 
 
 
