@@ -384,65 +384,7 @@ background-image: url(../img/img1.jpg);
     left: 50%;
     opacity: 0.2;
 }
-/*media*/
-@media(max-width: 850px){
-    .form1{
-        grid-template-columns:2fr;
-    }
-    .contact-nefor-information:before{
-        bottom: initial;
-        top: -75px;
-        right: 65px;
-        transform: scale(0.95);
-    }
-    .contact-nefor-form{
-        top: -13px;
-        left: initial;
-        right: 70px;
-    }
-    .spuare{
-        transform: translate(140%, 43%);
-        height: 350px;
-    }
-    .nefor-big-circle{
-        bottom: 75%;
-        transform: scale(0.9) translate(-40%, 30%);
-        right: 50%;
-    }
-    
-    .social-media{
-        padding: 1.5rem 0 0 0;
-    }
-}
-@media(max-width: 80px){
-    .nefor-container1{
-        padding: 1.5rem;
-    }
-    .contact-nefor-information:before{
-        display: none;
-    }
-    .square,
-    .nefor-big-circle{
-        display: none;
-    }
-    .form1,
-.contact-nefor-information{
-    padding: 1.7rem  1.6rem;
-}
-    
-}
-/* For devices with a max width of 480px (Mobile Phones) */
-@media (max-width: 480px){
-#nefor-showcase{
-    min-height: 200px;
-    background: url("../img/img5.jpg") no-repeat 0 -200px;
-    text-align: center;
-    color: #ffffff;
-    padding-top: 2px;
-}
-}
 
-/*end of media*/
 
 /* this is a footer*/
 footer{
@@ -596,5 +538,84 @@ span{
     font: size 15px;
 
 }
+/*media*/
+@media(max-width: 850px){
+    .form1{
+        grid-template-columns:2fr;
+    }
+    .contact-nefor-information:before{
+        bottom: initial;
+        top: -75px;
+        right: 65px;
+        transform: scale(0.95);
+    }
+    .contact-nefor-form{
+        top: -13px;
+        left: initial;
+        right: 70px;
+    }
+    .spuare{
+        transform: translate(140%, 43%);
+        height: 350px;
+    }
+    .nefor-big-circle{
+        bottom: 75%;
+        transform: scale(0.9) translate(-40%, 30%);
+        right: 50%;
+    }
+    
+    .social-media{
+        padding: 1.5rem 0 0 0;
+    }
+}
+@media(max-width: 80px){
+    .nefor-container1{
+        padding: 1.5rem;
+    }
+    .contact-nefor-information:before{
+        display: none;
+    }
+    .square,
+    .nefor-big-circle{
+        display: none;
+    }
+    .form1,
+.contact-nefor-information{
+    padding: 1.7rem  1.6rem;
+}
+    
+}
+/* For devices with a max width of 480px (Mobile Phones) */
+@media (max-width: 480px){
+#nefor-showcase{
+    min-height: 200px;
+    background: url("../img/img5.jpg") no-repeat 0 -200px;
+    text-align: center;
+    color: #ffffff;
+    padding-top: 2px;
+}
+    #nefor-showcase img{
+    float:right;
+    width: 20%;
+    height: 20px;
+    padding: 3px 2px 2px 2px ;
+}
+#nefor-showcase h3{
+    margin-top:30px;
+    font-size:15px;
+    margin-bottom:5px;
+    text-transform: uppercase;
+    float: left;
+    padding-left: 5px;
+}
+#nefor-showcase p{
+    margin-top:25px;
+    font-size:10px;
+    float: left;
+}
+}
+
+/*end of media*/
+
 
 
