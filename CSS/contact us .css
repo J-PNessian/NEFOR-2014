@@ -663,9 +663,88 @@ text-transform: uppercase;
     display: grid;
     grid-template-columns: repeat(2, 1fr) 
 }
+    /* For devices with a min width of 480px (Mobile Phones) */
+@media (min-width: 480px){
+#nefor-showcase{
+    min-height: 50px;
+    text-align: left;
+    color: #ffffff;
+    padding-top: 2px;
+}
+    header img {
+        width:18px;
+        height: auto;
+    }
+    header #branding h3 {
+        font-size:6px;
+    }
+   header a{
+    font-size:5px;
+     padding:0;
+     color: green;
+    cursor: pointer;
+    margin-top:40px;
+}
+header nav{
+    float:left;
+    padding: 0 0px 0 0px;
+    margin-left:0px;
+    width: 120px;
+    height:20px;
+    display:inline;
+    background-color:blue;
+}
+    #nefor-showcase img{
+   display: none;
+}
+#nefor-showcase h3{
+    margin-top:5px;
+    font-size:5px;
+    margin-bottom:5px;
+    text-transform: uppercase;
+    float: left;
+    padding-left: 5px;
+}
+#nefor-showcase p{
+    margin-top:0px;
+    font-size:5px;
+    float: left;
+    color:red;
+}
+    #nefor-container3{
+    padding:5PX;
+    color: #ffffff;
+    background: #354243;
+}
+#nefor-container3 h2{
+    float: left;
+    width:8px;
+    margin-top: 0;
+}
+#nefor-container3 form{
+    float: right;    
+}
+ header #branding h3{
+margin: 2px;
+padding: 2px;
+font-size:8px;
+text-transform: uppercase;
+}
+    form{
+    width: 50%;
+    max-width: 200px;
+    background-color:#ffffff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px 1px rgb(0, 0, 0, 0.1);
+    z-index: 500;
+    overflow: hidden;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr) 
+}
 }
 
 /*end of media*/
+
 
 
 
