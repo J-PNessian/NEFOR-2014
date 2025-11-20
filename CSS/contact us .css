@@ -594,14 +594,14 @@ span{
     padding-top: 2px;
 }
     header img {
-        width:18px;
+        width:30px;
         height: auto;
     }
     header #branding h3 {
-        font-size:6px;
+        font-size:10px;
     }
    header a{
-    font-size:5px;
+    font-size:12px;
      padding:0;
      color: green;
     cursor: pointer;
@@ -653,8 +653,8 @@ font-size:8px;
 text-transform: uppercase;
 }
     form{
-    width: 50%;
-    max-width: 200px;
+    width:100px;
+    max-width:150px;
     background-color:#ffffff;
     border-radius: 10px;
     box-shadow: 0 0 10px 1px rgb(0, 0, 0, 0.1);
@@ -744,6 +744,7 @@ text-transform: uppercase;
 }
 
 /*end of media*/
+
 
 
 
