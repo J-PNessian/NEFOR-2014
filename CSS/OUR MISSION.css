@@ -136,3 +136,38 @@ section h2{
     line-height: 40px;
     transition: all 0.3s ease-out;
 }
+/* For devices with a max width of 480px (Mobile Phones) */
+@media (max-width: 480px) {
+    .Agri1{
+    height:100px;
+    width: 100px;
+    border-radius: 100%;
+    float: left;
+    shape-outside: circle(130px);
+    shape-margin:5px;
+    margin-right:5px;
+    filter: drop-shadow(7px 7px 7px #666666);
+}
+.health1{
+    height:100px;
+    width: 100px;
+    border-radius: 100%;
+    float: left;
+    shape-outside: circle(140px);
+    shape-margin: 5px;
+    margin-right: 5px;
+    filter: drop-shadow(5px 5px 5px #666666);
+}
+.health{
+    height:100px;
+    width: 100px;
+    float: right;
+    border-radius: 100%;
+    shape-margin: 10px;
+    margin-right: 10px;
+    background: radial-gradient(hsl(256, 89%, 41%), #b97105 75%);
+}
+    
+}
+    
+
