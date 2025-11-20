@@ -621,7 +621,7 @@ header nav{
 }
 #nefor-showcase h3{
     margin-top:5px;
-    font-size:5px;
+    font-size:15px;
     margin-bottom:5px;
     text-transform: uppercase;
     float: left;
@@ -629,7 +629,7 @@ header nav{
 }
 #nefor-showcase p{
     margin-top:0px;
-    font-size:5px;
+    font-size:10px;
     float: left;
     color:red;
 }
@@ -640,7 +640,7 @@ header nav{
 }
 #nefor-container3 h2{
     float: left;
-    width:8px;
+    width:12px;
     margin-top: 0;
 }
 #nefor-container3 form{
@@ -744,6 +744,7 @@ text-transform: uppercase;
 }
 
 /*end of media*/
+
 
 
 
