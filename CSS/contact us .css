@@ -594,18 +594,18 @@ span{
     padding-top: 2px;
 }
     header img {
-        width:15px;
+        width:18px;
         height: auto;
     }
     header #branding h3 {
-        font-size: 8px;
+        font-size:6px;
     }
    header a{
     font-size:5px;
      padding:0;
      color: green;
     cursor: pointer;
-    margin-top:50px;
+    margin-top:40px;
 }
 header nav{
     float:left;
@@ -617,11 +617,7 @@ header nav{
     background-color:blue;
 }
     #nefor-showcase img{
-    float:right;
-    width: 10px
-    height:10px;
-    padding: 3px 2px 2px 2px ;
-        background-color:red;
+   display: none;
 }
 #nefor-showcase h3{
     margin-top:5px;
@@ -658,7 +654,7 @@ text-transform: uppercase;
 }
     form{
     width: 50%;
-    max-width: 400px;
+    max-width: 200px;
     background-color:#ffffff;
     border-radius: 10px;
     box-shadow: 0 0 10px 1px rgb(0, 0, 0, 0.1);
@@ -670,6 +666,7 @@ text-transform: uppercase;
 }
 
 /*end of media*/
+
 
 
 
