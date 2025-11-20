@@ -7,8 +7,6 @@ body{
 /*this is a  header section*/
 
 /*header section*/
-
-
 /*card*/
 #container-nefor{
     padding: 2px;
@@ -43,7 +41,6 @@ body{
     margin-right: 10px;
     background: radial-gradient(hsl(256, 89%, 41%), #b97105 75%);
 }
-
 .jpn{
     text-align: justify;
     font-size: 1rem;
@@ -97,12 +94,9 @@ body{
     background: radial-gradient(hwb(120 5% 22%), hsl(246, 95%, 37%) 75%);
 }
 
-
 /* end of duties on our mission*/
 
 /*end of card*/
-
-
 
 /*link buttons*/
 #MORE-ABOUT-AGRICULTURE{
@@ -147,6 +141,7 @@ section h2{
     shape-margin:5px;
     margin-right:5px;
     filter: drop-shadow(7px 7px 7px #666666);
+    background-color:yellow;
 }
 .health1{
     height:100px;
@@ -170,4 +165,5 @@ section h2{
     
 }
     
+
 
