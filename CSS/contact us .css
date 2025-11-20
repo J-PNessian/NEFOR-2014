@@ -614,6 +614,7 @@ header nav{
     width: 120px;
     height:50px;
     display:inline;
+    background-color:yellow;
  
 }
     #nefor-showcase img{
@@ -643,7 +644,7 @@ header nav{
 }
 #nefor-container3 h2{
     float: left;
-    width:10%;
+    width:8px;
     margin-top: 0;
 }
 #nefor-container3 form{
@@ -652,12 +653,13 @@ header nav{
  header #branding h3{
 margin: 2px;
 padding: 2px;
-font-size:10px;
+font-size:8px;
 text-transform: uppercase;
 }
 }
 
 /*end of media*/
+
 
 
 
