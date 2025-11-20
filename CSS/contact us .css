@@ -431,6 +431,10 @@ background-image: url(../img/img1.jpg);
 }
     
 }
+/* For devices with a max width of 480px (Mobile Phones) */
+@media (max-width: 480px){
+    
+}
 
 /*end of media*/
 
@@ -586,3 +590,4 @@ span{
     font: size 15px;
 
 }
+
