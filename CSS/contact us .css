@@ -621,6 +621,7 @@ header nav{
     width: 10px
     height: 15px;
     padding: 3px 2px 2px 2px ;
+        background-color:blue;
 }
 #nefor-showcase h3{
     margin-top:5px;
@@ -657,6 +658,7 @@ text-transform: uppercase;
 }
 
 /*end of media*/
+
 
 
 
