@@ -433,7 +433,13 @@ background-image: url(../img/img1.jpg);
 }
 /* For devices with a max width of 480px (Mobile Phones) */
 @media (max-width: 480px){
-    
+#nefor-showcase{
+    min-height: 200px;
+    background: url("../img/img5.jpg") no-repeat 0 -200px;
+    text-align: center;
+    color: #ffffff;
+    padding-top: 2px;
+}
 }
 
 /*end of media*/
@@ -590,4 +596,5 @@ span{
     font: size 15px;
 
 }
+
 
