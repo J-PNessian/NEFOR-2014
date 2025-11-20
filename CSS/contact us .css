@@ -666,17 +666,17 @@ text-transform: uppercase;
     /* For devices with a min width of 480px (Mobile Phones) */
 @media (min-width: 480px){
 #nefor-showcase{
-    min-height: 50px;
+    min-height: 100px;
     text-align: left;
     color: #ffffff;
     padding-top: 2px;
 }
     header img {
-        width:18px;
+        width:20px;
         height: auto;
     }
     header #branding h3 {
-        font-size:6px;
+        font-size:10px;
     }
    header a{
     font-size:5px;
@@ -707,7 +707,7 @@ header nav{
 }
 #nefor-showcase p{
     margin-top:0px;
-    font-size:5px;
+    font-size:10px;
     float: left;
     color:red;
 }
@@ -744,6 +744,7 @@ text-transform: uppercase;
 }
 
 /*end of media*/
+
 
 
 
