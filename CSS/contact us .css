@@ -612,14 +612,13 @@ header nav{
     padding: 0 0px 0 0px;
     margin-left:0px;
     width: 120px;
-    height:50px;
+    height:20px;
     display:inline;
     background-color:yellow;
- 
 }
     #nefor-showcase img{
     float:right;
-    width: 10%;
+    width: 13%;
     height: 15px;
     padding: 3px 2px 2px 2px ;
 }
@@ -632,7 +631,7 @@ header nav{
     padding-left: 5px;
 }
 #nefor-showcase p{
-    margin-top:5px;
+    margin-top:0px;
     font-size:8px;
     float: left;
     background-color:red;
@@ -659,6 +658,7 @@ text-transform: uppercase;
 }
 
 /*end of media*/
+
 
 
 
