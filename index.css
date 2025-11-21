@@ -39,9 +39,7 @@ text-transform: uppercase;
 header nav{
     float: left;
     margin-left:320px;
-
 }
-
 header .highlight, header .current a{
     color: #e84914;
     font: bold;
@@ -80,11 +78,13 @@ header img{
     text-transform: uppercase;
     float: left;
     padding-left:2px;
+    color:black;
 }
 #nefor-showcase p{
     margin-top: 45px;
     font-size: 20px;
     float: left;
+    color:black;
 }
 #nefor-container3{
     padding: 10PX;
@@ -257,5 +257,6 @@ color: #fff;
 #buttons:hover{
     background-color: #265df2;
 }
+
 
 
