@@ -18,7 +18,7 @@ header a{
     color: #ffffff;
     text-decoration: none;
     text-transform: uppercase;
-    font-size: 20px;
+    font-size: 30px;
     padding:2PX;
 }
 header li{
@@ -31,9 +31,9 @@ header #branding{
     float: left;
 }
 header #branding h3{
-margin: 2px;
-padding: 2px;
-font-size:20px;
+margin: 4px;
+padding: 4px;
+font-size:30px;
 text-transform: uppercase;
 }
 header nav{
@@ -50,7 +50,7 @@ header a:hover{
 }
 header img{
     width: 100px;
-    height: 90px;
+    height: 100px;
     float: left;
     padding-left: 5px;
     box-sizing: border-box;
@@ -73,7 +73,7 @@ header img{
 }
 #nefor-showcase h3{
     margin-top: 45px;
-    font-size: 20px;
+    font-size: 30px;
     margin-bottom: 16px;
     text-transform: uppercase;
     float: left;
@@ -81,8 +81,8 @@ header img{
     color:black;
 }
 #nefor-showcase p{
-    margin-top: 45px;
-    font-size: 20px;
+    margin-top:20px;
+    font-size: 400px;
     float: left;
     color:black;
 }
@@ -362,6 +362,7 @@ color: #fff;
 }
 
 }
+
 
 
 
