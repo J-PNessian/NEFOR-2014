@@ -261,16 +261,16 @@ color: #fff;
 @media (max-width: 480px) {
     .slide-container{
     max-width:500px;
-    width: 70%;
-    padding:20px;
+    width: 100%;
+    padding:10px;
 }
 .slide-content{
-    margin: 0 20px;
+    margin: 0 30px;
     overflow: hidden;
     border-radius: 20px;  
 }
 .card{
-    border-radius: 20px;
+    border-radius: 40px;
     background-color:rgb(208, 218, 213);
 }
 .image-content,
@@ -362,6 +362,7 @@ color: #fff;
 }
 
 }
+
 
 
 
