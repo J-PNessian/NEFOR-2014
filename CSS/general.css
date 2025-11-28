@@ -245,7 +245,7 @@ span{
 /* For devices with a max width of 480px (Mobile Phones) */
 @media (max-width: 480px) {
     header img {
-        width:47px;
+        width:40;
         height: auto;
     }
     header #branding h3 {
@@ -256,7 +256,7 @@ span{
      padding:0;
      color: green;
     cursor: pointer;
-    margin-top: 20;
+    margin-top: 10px;
 }
 header nav{
     float:left;
@@ -297,8 +297,8 @@ header nav{
 footer{
     background: #354243;
     color: #ffffff;
-    padding-top: 3px;
-    min-height:50px;
+    padding-top:2px;
+    min-height:60px;
     border-bottom: #05dd3b 10px solid;
     /*border-bottom: hwb(138 1% 85% / 0.815) 10px solid;*/
     border-top: hwb(138 1% 85% / 0.815) 5px solid;
@@ -363,8 +363,8 @@ footer li{
 .button{
     display: inline-block;
     height:30px;
-    width:30px;
-    max-width: 0 3px;
+    width:100%;
+    max-width: 3px;
     overflow: hidden;
     background:hsl(139, 91%, 9%);
     border-radius: 35px;
@@ -391,4 +391,5 @@ footer li{
     line-height: 30px;
     transition: all 0.3s ease-out;
 }
+
 }
