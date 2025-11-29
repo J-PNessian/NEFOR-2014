@@ -1,4 +1,3 @@
-
 /*this is a header*/
 header{
     background: #354243;
@@ -17,7 +16,6 @@ header a{
     padding: 5PX;
     cursor: pointer;
 }
-
 header li{
     float: left;
     display: inline;
@@ -65,8 +63,6 @@ footer{
     border-bottom: #05dd3b 10px solid;
     /*border-bottom: hwb(138 1% 85% / 0.815) 10px solid;*/
     border-top: hwb(138 1% 85% / 0.815) 5px solid;
-}
-
 footer img{
     width: 65px;
     height: 55px;
@@ -75,7 +71,6 @@ footer img{
     border-radius: 15px;
     box-sizing: border-box;
 }
-
 footer p{
     text-align: center;
     font: 1em sans-serif;
@@ -265,7 +260,6 @@ header nav{
     width: 160px;
     height: 100px;
     display:inline;
- 
 }
     /*new*/
     #branding h3 {
@@ -319,13 +313,13 @@ footer p{
     margin:8px;
     text-transform: uppercase;
 }
+    
 footer h3{
     text-align: center;
     font: 0.8em sans-serif;
     text-transform: uppercase ;
 }
 footer ul{
-    
     align-items:normal;
 }
 footer a{
@@ -336,6 +330,7 @@ footer a{
     align-items: center;
     padding: 0;
 }
+    
 footer li{
     float: right;
     display: inline;
@@ -363,7 +358,7 @@ footer li{
 .button{
     display: inline-block;
     height:15px;
-    width:10px;
+    width:15px;
     max-width: 10px;
     overflow: hidden;
     background:hsl(139, 91%, 9%);
@@ -393,6 +388,7 @@ footer li{
 }
 
 }
+
 
 
 
