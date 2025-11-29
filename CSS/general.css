@@ -362,9 +362,9 @@ footer li{
 /*footer social media*/
 .button{
     display: inline-block;
-    height:10px;
+    height:15px;
     width:10px;
-    max-width: 3px;
+    max-width: 10px;
     overflow: hidden;
     background:hsl(139, 91%, 9%);
     border-radius: 35px;
@@ -393,6 +393,7 @@ footer li{
 }
 
 }
+
 
 
 
