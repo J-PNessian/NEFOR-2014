@@ -61,7 +61,7 @@ footer{
     border-bottom: #05dd3b 10px solid;
     /*border-bottom: hwb(138 1% 85% / 0.815) 10px solid;*/
     border-top: hwb(138 1% 85% / 0.815) 5px solid;
-
+   
     footer img{
     width: 65px;
     height: 55px;
@@ -243,11 +243,11 @@ span{
         font-size: 11px;
     }
    header a{
-    font-size: 12px;
+    font-size: 10px;
      padding:0;
      color: green;
     cursor: pointer;
-    margin-top: 10px;
+    margin-top:5px;
 }
 header nav{
     float:left;
@@ -259,7 +259,7 @@ header nav{
 }
     /*new*/
     #branding h3 {
-        font-size: 1.2rem;
+        font-size: 12;
     }
     .card-content h2 {
         font-size: 1rem;
@@ -380,6 +380,7 @@ footer li{
     transition: all 0.3s ease-out;
 }
 }
+
 
 
 
