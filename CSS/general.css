@@ -20,8 +20,7 @@ header li{
     float: left;
     display: inline;
     padding: 0 10px 0 10px;
-}
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+}                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
 header #branding{
     float: left;
     background-image:url(../img/img1.png);
@@ -174,13 +173,11 @@ footer li{
     line-height: 25px;
     transition: all 0.3s ease-out;
 }
-
 .wrapper .button:nth-child(1)
 span{
     color: blue;
     font: size 15px;
 }
-
 .wrapper .button:nth-child(2)
 span{
     color: rgb(10, 179, 75);
@@ -191,7 +188,6 @@ span{
     color: #ff0000;
     font: size 15px;
 }
-
 .wrapper .button:nth-child(4)
 span{
     color: hwb(144 2% 30%);
@@ -285,8 +281,7 @@ header nav{
     margin-top: 0;
 }
 #nefor-container3 form{
-    float: right;
-    
+    float: right; 
 }
 footer{
     background: #354243;
@@ -297,7 +292,6 @@ footer{
     /*border-bottom: hwb(138 1% 85% / 0.815) 10px solid;*/
     border-top: hwb(138 1% 85% / 0.815) 5px solid;
 }
-
 footer img{
     width: 40px;
     height:40px;
@@ -306,14 +300,12 @@ footer img{
     border-radius:10px;
     box-sizing: border-box;
 }
-
 footer p{
     text-align: center;
     font: 0.8em sans-serif;
     margin:8px;
     text-transform: uppercase;
-}
-    
+} 
 footer h3{
     text-align: center;
     font: 0.8em sans-serif;
@@ -386,8 +378,8 @@ footer li{
     line-height: 30px;
     transition: all 0.3s ease-out;
 }
-
 }
+
 
 
 
