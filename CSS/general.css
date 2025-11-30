@@ -52,7 +52,7 @@ header img{
     border-radius: 10px;
     box-sizing: border-box;
 }
-/*This is a Footer*/
+/* this is a footer*/
 footer{
     background: #354243;
     color: #ffffff;
@@ -61,8 +61,9 @@ footer{
     border-bottom: #05dd3b 10px solid;
     /*border-bottom: hwb(138 1% 85% / 0.815) 10px solid;*/
     border-top: hwb(138 1% 85% / 0.815) 5px solid;
-   
-    footer img{
+}
+
+footer img{
     width: 65px;
     height: 55px;
     float: left;
@@ -70,15 +71,16 @@ footer{
     border-radius: 15px;
     box-sizing: border-box;
 }
+
 footer p{
     text-align: center;
     font: 1em sans-serif;
-    margin: 15px;
+    margin: 10px;
     text-transform: uppercase;
 }
 footer h3{
     text-align: center;
-    font: 1.8em sans-serif;
+    font: 1em sans-serif;
     text-transform: uppercase ;
 }
 footer ul{
@@ -380,6 +382,7 @@ footer li{
     transition: all 0.3s ease-out;
 }
 }
+
 
 
 
