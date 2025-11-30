@@ -73,12 +73,12 @@ footer{
 footer p{
     text-align: center;
     font: 1em sans-serif;
-    margin: 10px;
+    margin: 15px;
     text-transform: uppercase;
 }
 footer h3{
     text-align: center;
-    font: 1em sans-serif;
+    font: 1.8em sans-serif;
     text-transform: uppercase ;
 }
 footer ul{
@@ -380,6 +380,7 @@ footer li{
     transition: all 0.3s ease-out;
 }
 }
+
 
 
 
