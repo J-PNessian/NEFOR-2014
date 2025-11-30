@@ -64,7 +64,7 @@ header img{
     min-height: 400px;
     background: url("../img/img5.jpg") no-repeat 0 -600px;
     text-align: center;
-    color: #ffffff;
+     color: hwb(0 10% 90%);
     padding-top: 2px;
 }
 #nefor-showcase img{
@@ -407,6 +407,7 @@ color: #fff;
 }
 
 }
+
 
 
 
