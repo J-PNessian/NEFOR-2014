@@ -52,6 +52,34 @@ header img{
     border-radius: 10px;
     box-sizing: border-box;
 }
+/*this is a showcase*/
+#nefor-showcase{
+    min-height: 400px;
+    background: url("../img/img5.jpg") no-repeat 0 -600px;
+     background-color: #074f57;
+    text-align: center;
+    color: #ffffff;
+    padding-top: 2px;
+}
+#nefor-showcase img{
+    float:right;
+    width: 40%;
+    height: 400px;
+    padding: 5px 4px 4px 4px ;
+}
+#nefor-showcase h3{
+    margin-top: 45px;
+    font-size: 30px;
+    margin-bottom: 16px;
+    text-transform: uppercase;
+    float: left;
+    padding-left: 5px;
+}
+#nefor-showcase p{
+    margin-top: 45px;
+    font-size: 20px;
+    float: left;
+}
 /* this is a footer*/
 footer{
     background: #354243;
@@ -386,6 +414,7 @@ footer li{
     transition: all 0.3s ease-out;
 }
 }
+
 
 
 
