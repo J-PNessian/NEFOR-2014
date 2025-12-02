@@ -61,11 +61,12 @@ header img{
 /*end of Header*/
 /*NEFOR showcase*/
 #nefor-showcase{
-    min-height: 400px;
-
-    text-align: center;
-     color: hwb(0 10% 90%);
-    padding-top: 2px;
+ min-height: 400px;
+ background: url("../img/img5.jpg") no-repeat 0 -600px;
+ background-color: #074f57;
+ text-align: center;
+color: hwb(0 10% 90%);
+ padding-top: 2px;
 }
 #nefor-showcase img{
     float:right;
@@ -407,6 +408,7 @@ color: #fff;
 }
 
 }
+
 
 
 
