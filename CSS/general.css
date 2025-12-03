@@ -402,6 +402,7 @@ footer li{
 .wrapper{
     margin-left:100px;
     width: 50%;
+    background-color:red;
 }
 .wrapper .button .icon{
     display: inline-block;
@@ -414,6 +415,7 @@ footer li{
     transition: all 0.3s ease-out;
 }
 }
+
 
 
 
