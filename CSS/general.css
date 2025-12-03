@@ -266,7 +266,7 @@ span{
 /* For devices with a max width of 480px (Mobile Phones) */
 @media (max-width: 480px) {
     header img {
-        width:30px;
+        width:50px;
         height: auto;
     }
     header #branding h3 {
@@ -415,6 +415,7 @@ footer li{
     transition: all 0.3s ease-out;
 }
 }
+
 
 
 
