@@ -271,13 +271,13 @@ color: #fff;
 #nefor-showcase img{
     float:right;
     width:40%;
-    height: 275px;
+    height: 250px;
     padding: 2px 2px 2px 2px ;
 }
 #nefor-showcase h3{
-    margin-top:10px;
-    font-size: 12px;
-    margin-bottom:5px;
+    margin-top:8px;
+    font-size: 8px;
+    margin-bottom:2px;
     text-transform: uppercase;
     float: left;
     padding-left:2px;
@@ -408,6 +408,7 @@ color: #fff;
 }
 
 }
+
 
 
 
