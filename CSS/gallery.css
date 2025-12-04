@@ -753,10 +753,10 @@
     cursor: pointer;
     text-transform: uppercase;
 }
-
 .img-btn-prev:hover{
     opacity: 0.8;   
 }
+
 /*new*/
 /* For devices with a max width of 480px (Mobile Phones) */
 @media(max-width: 480px) {
@@ -1574,3 +1574,4 @@ h2{
     };
 
 }
+
