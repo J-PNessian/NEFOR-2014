@@ -923,7 +923,6 @@
     #index-gallery .img34{
         grid-area: img34;
         background-image: url(../img/thumbs/img34.jpg);
-    
     }
     #index-gallery .img35{
         grid-area: img35;
@@ -1574,5 +1573,6 @@ h2{
     };
 
 }
+
 
 
