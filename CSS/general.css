@@ -79,6 +79,7 @@ header img{
     margin-top: 45px;
     font-size: 20px;
     float: left;
+    color:green;
 }
 /* this is a footer*/
 footer{
@@ -415,6 +416,7 @@ footer li{
     transition: all 0.3s ease-out;
 }
 }
+
 
 
 
