@@ -286,10 +286,11 @@ color: #fff;
    color: #1908d3;
 }
 #nefor-showcase p{
-    margin-top:10px;
-    font-size:16px;
+    margin-top:5px;
+    font-size:10px;
     float: left;
     text-transform: bold;
+     color: #1908d3;
 }
     .slide-container{
     max-width:400px;
@@ -409,6 +410,7 @@ color: #fff;
 }
 
 }
+
 
 
 
