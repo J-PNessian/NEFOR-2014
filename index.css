@@ -34,7 +34,6 @@ header #branding h3{
 margin: 2px;
 padding: 2px;
 font-size:20px;
-text-transform: uppercase;
 }
 header nav{
     float: left;
@@ -411,6 +410,7 @@ color: #fff;
 }
 
 }
+
 
 
 
