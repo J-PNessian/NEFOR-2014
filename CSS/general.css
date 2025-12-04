@@ -29,7 +29,6 @@ header #branding h3{
     margin: 2px;
     padding: 2px;
     font-size: 20px;
-    text-transform: uppercase;
     }
 header nav{
     float: left;
@@ -415,6 +414,7 @@ footer li{
     transition: all 0.3s ease-out;
 }
 }
+
 
 
 
