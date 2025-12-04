@@ -273,7 +273,6 @@ span{
     }
     header #branding{
     float: left;
- 
 }
    header a{
     font-size: 10px;
@@ -396,10 +395,10 @@ footer li{
      margin-left:15px;
 }
 .wrapper .button:hover{
-    width:50px;
+    width:70px;
 }
 .wrapper{
-    margin-left:50px;
+    margin-left:20px;
     width: 100%;
     background-color:red;
 }
@@ -414,6 +413,7 @@ footer li{
     transition: all 0.3s ease-out;
 }
 }
+
 
 
 
