@@ -1441,8 +1441,8 @@ h2{
     /*new popup windown when click on*/
     
 .img-window {
-    width: 50vw;
-    height: 50vh;
+    width:`100vw;
+    height: 100vh;
     background-color: rgba(0, 0, 0, 0.8);
     position: fixed;
     top: 0;
@@ -1454,8 +1454,8 @@ h2{
     z-index: 10;
 }
 .img-window img {
-    max-height: 60vh;
-    max-width: 60vw;
+    max-height: 800vh;
+    max-width: 80vw;
 }
 
 /* this is the next img*/
@@ -1573,6 +1573,7 @@ h2{
     };
 
 }
+
 
 
 
