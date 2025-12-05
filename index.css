@@ -395,7 +395,7 @@ color: #fff;
     font-size: 20px;
 }
 #buttons {
-display: flex;
+display: none;
 align-items: center;
 color: #fff;
     padding: 3px 3px;
@@ -409,6 +409,7 @@ color: #fff;
 }
 
 }
+
 
 
 
