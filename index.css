@@ -263,7 +263,7 @@ color: #fff;
 @media (max-width: 480px) 
 {
     #nefor-showcase{
-    min-height:100px;
+    min-height:80px;
     background: url("../img/img5.jpg") no-repeat 0 -500px;
     text-align: center;
     color: hwb(0 10% 90%);
@@ -278,7 +278,7 @@ color: #fff;
 #nefor-showcase h3{
     margin-top:2px;
     font-size: 5px;
-    text-transform: uppercase;
+  
     float: left;
     padding-left:2px;
    color: #1908d3;
@@ -407,6 +407,7 @@ color: #fff;
 }
 
 }
+
 
 
 
