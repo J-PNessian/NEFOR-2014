@@ -51,6 +51,32 @@ header img{
     border-radius: 10px;
     box-sizing: border-box;
 }
+/* dropdown_menu*/
+.dropdown_menu{
+    display: none;
+}
+.dropdown_menu{
+    width: 120px;
+}
+nav ul li:hover .dropdown_menu{
+  background: #354243;
+    display: block;
+    position: absolute;
+    top: 5%;
+}
+nav ul li:hover .dropdown_menu ul {
+    display: block;
+    margin: 5px;
+}
+.dropdown_menu ul li{
+    width: 120px;
+    padding: 3px;
+}
+.dropdown_menu a{
+font-size: 12px;
+ padding: 2PX;
+}
+/* end of dropdown_menu*/
 /*this is a showcase*/
 #nefor-showcase{
     min-height: 400px;
@@ -440,6 +466,7 @@ footer li{
     transition: all 0.3s ease-out;
 }
 }
+
 
 
 
