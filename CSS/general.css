@@ -32,7 +32,7 @@ header #branding h3{
     }
 header nav{
     float: left;
-     margin-left:350px;
+     margin-left:360px;
     background-image: url(../img/img1.png);
 }
 header .highlight, header .current a{
@@ -440,6 +440,7 @@ footer li{
     transition: all 0.3s ease-out;
 }
 }
+
 
 
 
