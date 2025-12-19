@@ -29,7 +29,7 @@ header li{
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
 header #branding{
     float: left;
-    background-color:red;
+     background-color:rgb(208, 218, 213);
 }
 header #branding h3{
 margin: 2px;
@@ -434,6 +434,7 @@ color: #fff;
 }
 
 }
+
 
 
 
