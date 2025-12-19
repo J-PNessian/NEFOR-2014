@@ -29,7 +29,6 @@ header li{
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
 header #branding{
     float: left;
-     background-color:rgb(208, 218, 213);
 }
 header #branding h3{
 margin: 2px;
@@ -38,7 +37,7 @@ font-size:20px;
 }
 header nav{
     float: left;
-    margin-left:400px;
+    margin-left:430px;
 
 }
 
@@ -434,6 +433,7 @@ color: #fff;
 }
 
 }
+
 
 
 
