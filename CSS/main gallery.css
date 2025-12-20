@@ -35,7 +35,7 @@ header #branding h3{
     }
 header nav{
     float: left;
-    margin-left:400px;
+    margin-left:380px;
     background-image: url(../img/img1.png);
 }
 
@@ -168,6 +168,7 @@ span{
     color: lch(84.03% 103.96 139.59);
     font: size 15px;
 }
+
 
 
 
