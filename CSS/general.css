@@ -62,7 +62,7 @@ nav ul li:hover .dropdown_menu{
   background: #354243;
     display: block;
     position: absolute;
-    top: 5%;
+    top: 2%;
 }
 nav ul li:hover .dropdown_menu ul {
     display: block;
@@ -70,7 +70,7 @@ nav ul li:hover .dropdown_menu ul {
 }
 .dropdown_menu ul li{
     width: 120px;
-    padding: 3px;
+    padding: 1px;
 }
 .dropdown_menu a{
 font-size: 12px;
@@ -466,6 +466,7 @@ footer li{
     transition: all 0.3s ease-out;
 }
 }
+
 
 
 
