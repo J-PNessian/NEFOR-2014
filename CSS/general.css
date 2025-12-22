@@ -32,7 +32,7 @@ header #branding h3{
     }
 header nav{
     float: left;
-     margin-left:380px;
+     margin-left:350px;
     background-image: url(../img/img1.png);
     background-color:"red";
     margin-top: 0;
@@ -68,7 +68,7 @@ nav ul li:hover .dropdown_menu{
 }
 nav ul li:hover .dropdown_menu ul {
     display: block;
-    margin: 5px;
+    margin:8px;
 }
 .dropdown_menu ul li{
     width: 120px;
@@ -468,6 +468,7 @@ footer li{
     transition: all 0.3s ease-out;
 }
 }
+
 
 
 
