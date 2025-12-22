@@ -91,6 +91,7 @@ color: hwb(0 10% 90%);
     color: #1908d3;
      padding-left:5px;
 }
+    /*
 #nefor-container3{
     padding: 10PX;
     color: #ffffff;
@@ -232,7 +233,7 @@ h2{
     text-align: justify;
 }
 
-/*thi is a link buttons*/
+/*thi is a link buttons*
 .section {
     height: 100vh;
     padding: 2em;
@@ -408,6 +409,7 @@ color: #fff;
 }
 
 }
+
 
 
 
