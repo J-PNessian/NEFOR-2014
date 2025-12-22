@@ -113,7 +113,7 @@ h1{
     font-size: 2rem;
 }
 #MORE-ABOUT-Chairmen {
-    background-color: rgb(181, 5, 5);
+  background-color: hwb(0 85% 14%);
 }
 
 section h2{
@@ -124,7 +124,7 @@ section h2{
     margin-bottom: 0.2em;
 }
 .Leaders{
-    background-color: #ff0000;
+    background-color: hwb(0 85% 14%);
 }
 .Pre1{
     height:200px;
@@ -298,6 +298,7 @@ section h2{
         font-size: 0.8rem;
     }
 }
+
 
 
 
