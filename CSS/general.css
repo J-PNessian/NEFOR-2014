@@ -68,7 +68,7 @@ nav ul li:hover .dropdown_menu{
 }
 nav ul li:hover .dropdown_menu ul {
     display: block;
-    margin:8px;
+    margin:10px;
 }
 .dropdown_menu ul li{
     width: 120px;
@@ -468,6 +468,7 @@ footer li{
     transition: all 0.3s ease-out;
 }
 }
+
 
 
 
