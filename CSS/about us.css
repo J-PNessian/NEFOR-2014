@@ -41,8 +41,6 @@ text-transform: uppercase;
 header nav{
     float: left;
     margin-left:320px;
-   
-
 }
 
 header .highlight, header .current a{
@@ -98,8 +96,6 @@ font-size: 12px;
     margin: 5px;  
     background-color: #17df5a;
 }
-
-
 .leadership span{
     color: rgba(214, 30, 30, 0.863);
     font-size: 40px;
@@ -107,7 +103,6 @@ font-size: 12px;
 .Nefor8{
     background-color: #e84914;
 }
-
 /*Resposibilites and duties*/
 
 /*link buttons*/
@@ -303,5 +298,6 @@ section h2{
         font-size: 0.8rem;
     }
 }
+
 
 
