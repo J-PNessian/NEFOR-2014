@@ -74,7 +74,7 @@ color: hwb(0 10% 90%);
     height: 400px;
     padding: 5px 4px 4px 4px ;
 }
-#nefor-showcase h3{
+#nefor-showcase h{
     margin-top: 45px;
     font-size: 20px;
     margin-bottom: 16px;
@@ -408,6 +408,7 @@ color: #fff;
 }
 
 }
+
 
 
 
