@@ -45,6 +45,34 @@ header nav{
     margin-left:300px;
 
 }
+/*excutive summary*/
+.EX{
+    text-transform: uppercase;
+    font-size: 20px;
+    text-align: center;
+    font-weight: bolder;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+}
+.NeFOR{
+    padding: 5px;
+    background-color: lch(90.66% 0.36 17.73);
+    align-items: center;
+}
+.NeFOR p{
+    text-align: center;
+    font-weight: bold;
+    font: 1em sans-serif;
+}
+.j2{
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bolder;
+    font-size: 40px;
+    margin-top:100px;
+    color: #ffffff;
+}
+/*end of excutive summary*/
 /* dropdown_menu*/
 .dropdown_menu{
     display: none;
@@ -426,6 +454,7 @@ display:none;
 }
 
 }
+
 
 
 
