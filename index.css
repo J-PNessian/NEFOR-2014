@@ -57,7 +57,7 @@ header img{
     box-sizing: border-box;
     border-radius: 20px;
 }
-/* dropdown_menu*/
+/* dropdown_menu
 .dropdown_menu{
     display: none;
 }
@@ -82,7 +82,7 @@ nav ul li:hover .dropdown_menu ul {
 font-size: 12px;
  padding: 2PX;
 }
-/* end of dropdown_menu*/
+end of dropdown_menu*/
 /*end of Header*/
 /*NEFOR showcase*/
 #nefor-showcase{
@@ -433,6 +433,7 @@ color: #fff;
 }
 
 }
+
 
 
 
