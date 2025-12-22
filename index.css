@@ -35,12 +35,11 @@ margin: 2px;
 padding: 2px;
 font-size:20px;
 }
-/*
+
 header nav{
     float: left;
     margin-left:350px;
 }
-*/
 header .highlight, header .current a{
     color: #e84914;
     font: bold;
@@ -84,7 +83,9 @@ font-size: 12px;
 }
 end of dropdown_menu*/
 /*end of Header*/
+
 /*NEFOR showcase*/
+
 #nefor-showcase{
  min-height: 400px;
  background: url("../img/img5.jpg") no-repeat 0 -600px;
@@ -433,6 +434,7 @@ color: #fff;
 }
 
 }
+
 
 
 
