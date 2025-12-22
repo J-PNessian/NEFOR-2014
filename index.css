@@ -42,7 +42,7 @@ text-transform: uppercase;
 }
 header nav{
     float: left;
-    margin-left:320px;
+    margin-left:300px;
 
 }
 /* dropdown_menu*/
@@ -426,5 +426,6 @@ display:none;
 }
 
 }
+
 
 
