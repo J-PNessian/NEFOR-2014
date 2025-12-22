@@ -35,12 +35,6 @@ margin: 2px;
 padding: 2px;
 font-size:20px;
 }
-
-header nav{
-    float: left;
-    margin-left:270px;
-
-}
 header .highlight, header .current a{
     color: #e84914;
     font: bold;
@@ -76,7 +70,7 @@ color: hwb(0 10% 90%);
 }
 #nefor-showcase h1{
     margin-top: 45px;
-    font-size: 20px;
+    font-size: 40px;
     margin-bottom: 16px;
     text-transform: uppercase;
     float: left;
@@ -92,7 +86,6 @@ color: hwb(0 10% 90%);
      padding-left:5px;
 }
 
-    /*
 #nefor-container3{
     padding: 10PX;
     color: #ffffff;
@@ -233,7 +226,7 @@ h2{
     text-align: justify;
 }
 
-/*thi is a link buttons*
+/*thi is a link buttons*/
 .section {
     height: 100vh;
     padding: 2em;
@@ -409,6 +402,7 @@ color: #fff;
 }
 
 }
+
 
 
 
