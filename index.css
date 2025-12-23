@@ -68,8 +68,8 @@ header nav{
     text-align: center;
     text-transform: uppercase;
     font-weight: bolder;
-    font-size: 40px;
-    margin-top:100px;
+    font-size: 30px;
+    margin-top:50%;
     color: #ffffff;
 }
 /*end of excutive summary*/
@@ -454,6 +454,7 @@ display:none;
 }
 
 }
+
 
 
 
