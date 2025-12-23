@@ -66,9 +66,8 @@ header nav{
 }
 .j2{
     text-align: center;
-    text-transform: uppercase;
     font-weight: bolder;
-    font-size: 30px;
+    font-size:40px;
     margin-top:50%;
     color: #ffffff;
 }
@@ -454,6 +453,7 @@ display:none;
 }
 
 }
+
 
 
 
