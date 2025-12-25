@@ -582,14 +582,14 @@ footer{
     background: #354243;
     color: #ffffff;
     padding-top:2px;
-    min-height:80px;
+    min-height:50px;
     border-bottom: #05dd3b 10px solid;
     /*border-bottom: hwb(138 1% 85% / 0.815) 10px solid;*/
     border-top: hwb(138 1% 85% / 0.815) 5px solid;
 }
 footer img{
-    width: 35px;
-    height:35px;
+    width: 25px;
+    height:25px;
     float: left;
     padding-left:2px;
     border-radius:10px;
@@ -597,8 +597,8 @@ footer img{
 }
 footer p{
     text-align: center;
-    font: 0.8em sans-serif;
-    margin:8px;
+    font: 1.3em sans-serif;
+    margin:4;
     text-transform: uppercase;
 } 
 footer h3{
@@ -620,7 +620,7 @@ footer a{
     
 footer li{
     float: right;
-    display: inline;
+    display: block;
     padding:2px 2px 2px 2px;
 }
 .nefor-logo1{
@@ -649,7 +649,7 @@ footer li{
     max-width: 15px;
     overflow: hidden;
     background:hsl(139, 91%, 9%);
-    border-radius: 40px;
+    border-radius: 20px;
     cursor: pointer;
     box-shadow: 0px 10px 10px rgb(0, 0, 0 0.1);
     transition: all 0.3s ease-out;
@@ -666,15 +666,16 @@ footer li{
 }
 .wrapper .button .icon{
     display: inline-block;
-    height: 40px;
-    width: 40px;
+    height: 30px;
+    width: 30px;
     text-align: center;
     border-radius: 100px;
     box-sizing: border-box;
-    line-height: 60px;
+    line-height: 40px;
     transition: all 0.3s ease-out;
 }
 }
+
 
 
 
