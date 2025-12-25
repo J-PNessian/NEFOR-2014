@@ -485,7 +485,7 @@ color: #fff;
 /*new*/
 /* For devices with a max width of 480px (Mobile Phones) */
 @media (max-width: 480px) {
-    /*footer social m
+    /*footer social*/
 .button{
     display: inline-block;
     height: 10px;
@@ -675,6 +675,7 @@ footer li{
     transition: all 0.3s ease-out;
 }
 }
+
 
 
 
