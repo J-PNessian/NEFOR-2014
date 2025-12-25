@@ -607,14 +607,14 @@ footer h3{
     text-transform: uppercase ;
 }
 footer ul{
-    align-items:normal;
+ 
 }
 footer a{
     color: white;
     text-decoration: none;
     text-transform: uppercase;
     font-size:15px;
-    align-items: center;
+ 
     padding: 0;
 }
     
@@ -644,18 +644,18 @@ footer li{
 /*footer social media*/
 .button{
     display:block;
-    height:30px;
-    width:30px;
+    height:40px;
+    width:40px;
     max-width: 15px;
     overflow: hidden;
     background:hsl(139, 91%, 9%);
-    border-radius: 20px;
+    border-radius: 30px;
     cursor: pointer;
     box-shadow: 0px 10px 10px rgb(0, 0, 0 0.1);
     transition: all 0.3s ease-out;
     margin-left:1px;
     align-items: center;
-     margin-left:15px;
+     margin-left:5px;
 }
 .wrapper .button:hover{
     width:50px;
@@ -675,6 +675,7 @@ footer li{
     transition: all 0.3s ease-out;
 }
 }
+
 
 
 
