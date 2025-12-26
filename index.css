@@ -468,11 +468,12 @@ footer img{
     padding-left:2px;
     border-radius:15px;
     box-sizing: border-box;
+    background-color:green;
 }
 footer p{
     text-align: center;
-    font: 1.3em sans-serif;
-    margin:4;
+    font: 1em sans-serif;
+    margin:2;
     text-transform: uppercase;
     color:red;
 } 
@@ -486,7 +487,7 @@ footer a{
     color: white;
     text-decoration: none;
     text-transform: uppercase;
-    font-size:10px;
+    font-size:1em;
     align-items: center;
     padding: 0;
 }
@@ -494,7 +495,7 @@ footer a{
 footer li{
     float: right;
     display: block;
-    padding:2px 2px 2px 2px;
+    padding:0;
 }
 .nefor-logo1{
     width:20px;
@@ -552,6 +553,7 @@ footer li{
 
 
 }*/
+
 
 
 
