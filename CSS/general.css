@@ -600,13 +600,13 @@ footer p{
     font: 1.3em sans-serif;
     margin:4;
     text-transform: uppercase;
-    color:green;
+
 } 
 footer h3{
     text-align: center;
     font: 0.8em sans-serif;
     text-transform: uppercase ;
-    color:green;
+
 }
 footer ul{
  
@@ -677,6 +677,7 @@ footer li{
     transition: all 0.3s ease-out;
 }
 }
+
 
 
 
