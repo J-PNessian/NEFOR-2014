@@ -481,14 +481,12 @@ footer h3{
     font: 0.8em sans-serif;
     text-transform: uppercase ;
 }
-footer ul{
-    align-items:normal;
-}
+
 footer a{
     color: white;
     text-decoration: none;
     text-transform: uppercase;
-    font-size:15px;
+    font-size:10px;
     align-items: center;
     padding: 0;
 }
@@ -499,9 +497,9 @@ footer li{
     padding:2px 2px 2px 2px;
 }
 .nefor-logo1{
-    width:15px;
+    width:20px;
     float: left; 
-    width:15px; 
+    width:10px; 
 }
 .nefor-logo2{
     width:15px;
@@ -554,6 +552,7 @@ footer li{
 
 
 }*/
+
 
 
 
