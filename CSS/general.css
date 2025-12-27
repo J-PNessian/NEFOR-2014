@@ -665,6 +665,7 @@ footer li{
 .wrapper{
     margin-left:20px;
     width: 100%;
+    background-color:red;
 }
 .wrapper .button .icon{
     display:block;
@@ -677,6 +678,7 @@ footer li{
     transition: all 0.3s ease-out;
 }
 }
+
 
 
 
