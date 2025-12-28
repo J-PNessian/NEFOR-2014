@@ -288,16 +288,17 @@ color: #fff;
     text-transform: bold;
 }
     .slide-container{
-    max-width:200px;
-    width:100%;
-    padding:5px;
+    max-width:100px;
+    width:100px;
+    padding:2px;
     background-color:red;
    
 }
 .slide-content{
-    margin: 0 10px;
+    margin: 0 5px;
     overflow: hidden;
-    border-radius:15px;  
+    border-radius:15px;
+    background-color:black;
   
 }
 .card{
@@ -397,6 +398,7 @@ display:none;
 }
 }
    
+
 
 
 
