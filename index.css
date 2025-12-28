@@ -42,37 +42,7 @@ text-transform: uppercase;
 header nav{
     float: left;
     margin-left:300px;
-
 }
-
-/* dropdown_menu*
-.dropdown_menu{
-    display: none;
-}
-.dropdown_menu{
-    width: 120px;
-}
-nav ul li:hover .dropdown_menu{
-  background: #354243;
-    display: block;
-    position: absolute;
-    top: 5%;
-}
-nav ul li:hover .dropdown_menu ul {
-    display: block;
-    margin: 5px;
-}
-.dropdown_menu ul li{
-    width: 120px;
-    padding: 3px;
-}
-.dropdown_menu a{
-font-size: 12px;
- padding: 2PX;
-}
-/* end of dropdown_menu*/
-
-
 header .highlight, header .current a{
     color: #e84914;
     font: bold;
@@ -424,101 +394,8 @@ color: #fff;
 display:none;
 
 }
-    /*
-    footer{
-    background: #354243;
-    color: #ffffff;
-    padding-top:2px;
-    min-height:50px;
-    border-bottom: #05dd3b 10px solid;
-    /*border-bottom: hwb(138 1% 85% / 0.815) 10px solid;
-    border-top: hwb(138 1% 85% / 0.815) 5px solid;
 }
-footer img{
-    width: 60px;
-    height:60px;
-    float: left;
-    padding-left:2px;
-    border-radius:10px;
-    box-sizing: border-box;
-}
-footer p{
-    text-align: center;
-    font: 1em sans-serif;
-    margin:2;
-    text-transform: uppercase;
-} 
-footer h3{
-    text-align: center;
-    font: 0.8em sans-serif;
-    text-transform: uppercase ;
-}
-footer a{
-    color: white;
-    text-decoration: none;
-    text-transform: uppercase;
-    font-size:1em;
- 
-    padding: 0;
-}
-    
-footer li{
-    float: right;
-    display: block;
-    padding:0;
-}
-.nefor-logo1{
-    width:20px;
-    float: left; 
-}
-.nefor-logo2{
-    width:20px;
-    float: right; 
-}
-.nefor-logo1 img{
-    width:50px;
-    height:50px;
-}
-.nefor-logo2 img{
-    width:50px;
-    height:50px
-    padding-top: 0;
-}
-/*footer social media*
-
-.button{
-    display:block;
-    height:40px;
-    width:40px;
-    max-width:10px;
-    overflow: hidden;
-    background:hsl(139, 91%, 9%);
-    border-radius: 20px;
-    cursor: pointer;
-    box-shadow: 0px 10px 10px rgb(0, 0, 0 0.1);
-    transition: all 0.3s ease-out;
-    align-items: center;
-     margin-left:10px;
-}
-.wrapper .button:hover{
-    width:30px;
-}
-.wrapper{
-    margin-left:10px;
-    width: 100%;
-    background-color;
-}
-.wrapper .button .icon{
-    display:block;
-    height: 20px;
-    width: 20px;
-    border-radius: 100px;
-    box-sizing: border-box;
-    line-height: 20px;
-    transition: all 0.3s ease-out;
-}
-}
-    */
+   
 
 
 
