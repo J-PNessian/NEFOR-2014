@@ -309,13 +309,13 @@ color: #fff;
 .image-content,
 .card-content{
     align-items: center;
-    padding:5px 10px;
+    padding:2px 5px;
 }
 .card-content span{
     color: green;
 }
 .image-content{
-    position: relative;
+    position: absolutel;
 }
 .overlay{
     position: absolute;
@@ -356,8 +356,8 @@ color: #fff;
     border: #fa4040;
 }
 .name{
-    font-size:15px;
-    font-weight: 200px;
+    font-size:12px;
+    font-weight: 100px;
     color:rgb(14, 2, 3);
 }
 .description{
@@ -373,7 +373,7 @@ color: #fff;
     border: #ff0000;
     font-size: 13px;
     color: #fff;
-    padding: 8px 16px;
+    padding: 8px 8px;
     background-color:darkgreen;
     border-radius: 6px;
     margin:12px;
@@ -390,14 +390,11 @@ color: #fff;
 }
 .swiper-navBtn::before,
 .swiper-navBtn::after{
-    font-size: 20px;
-}
-#buttons {
-display:none;
-
+    font-size: 15px;
 }
 }
    
+
 
 
 
