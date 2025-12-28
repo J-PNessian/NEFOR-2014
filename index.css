@@ -5,7 +5,6 @@ body{
     background-color: hsl(187, 18%, 90%);
   
 }
-
 /*header section*/
 header{
     background: #354243;
@@ -45,7 +44,7 @@ header nav{
     margin-left:300px;
 
 }
-/*excutive summary*/
+/*excutive summary*
 .EX{
     text-transform: uppercase;
     font-size: 20px;
