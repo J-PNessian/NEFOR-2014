@@ -449,13 +449,14 @@ color: #fff;
 display:none;
 
 }
+    /*
     footer{
     background: #354243;
     color: #ffffff;
     padding-top:2px;
     min-height:50px;
     border-bottom: #05dd3b 10px solid;
-    /*border-bottom: hwb(138 1% 85% / 0.815) 10px solid;*/
+    /*border-bottom: hwb(138 1% 85% / 0.815) 10px solid;
     border-top: hwb(138 1% 85% / 0.815) 5px solid;
 }
 footer img{
@@ -508,7 +509,8 @@ footer li{
     height:50px
     padding-top: 0;
 }
-/*footer social media*/
+/*footer social media*
+
 .button{
     display:block;
     height:40px;
@@ -541,10 +543,8 @@ footer li{
     transition: all 0.3s ease-out;
 }
 }
+    */
 
-
-
-}*/
 
 
 
