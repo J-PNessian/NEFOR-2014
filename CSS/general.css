@@ -615,8 +615,8 @@ footer{
     border-top: hwb(138 1% 85% / 0.815) 5px solid;
 }
 footer img{
-    width: 45px;
-    height:45px;
+    width: 55px;
+    height:55px;
     float: left;
     padding-left:2px;
     border-radius:15px;
@@ -625,7 +625,7 @@ footer img{
 footer p{
     text-align: center;
     font: 1.3em sans-serif;
-    margin:4;
+    margin:4px;
     text-transform: uppercase;
 
 } 
@@ -634,9 +634,6 @@ footer h3{
     font: 0.8em sans-serif;
     text-transform: uppercase ;
 
-}
-footer ul{
- 
 }
 footer a{
     color: white;
@@ -656,6 +653,7 @@ footer li{
     width:15px;
     float: left; 
     width:15px; 
+    background-color:black;
 }
 .nefor-logo2{
     width:15px;
@@ -705,6 +703,7 @@ footer li{
     transition: all 0.3s ease-out;
 }
 }
+
 
 
 
