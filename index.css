@@ -341,8 +341,8 @@ color: #fff;
 }
 .card-image{
     position: relative;
-    height: 160px;
-    width: 160px;
+    height: 150px;
+    width:150px;
     border-radius: 50%;
     background-color: hsl(145, 85%, 29%);
     padding: 2px;
@@ -355,7 +355,7 @@ color: #fff;
     border: #fa4040;
 }
 .name{
-    font-size: 18px;
+    font-size:15px;
     font-weight: 200px;
     color:rgb(14, 2, 3);
 }
@@ -375,7 +375,7 @@ color: #fff;
     padding: 8px 16px;
     background-color:darkgreen;
     border-radius: 6px;
-    margin: 14px;
+    margin:12px;
     cursor: pointer;
     transition: all 0.3s ease;
     
@@ -397,6 +397,7 @@ display:none;
 }
 }
    
+
 
 
 
