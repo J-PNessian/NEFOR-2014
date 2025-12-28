@@ -300,7 +300,6 @@ color: #fff;
     transition: all 0.3s ease;
     box-sizing: border-box;
     height: 20px;
-
 }
 #buttons a {
     color: #ffffff;
@@ -311,8 +310,6 @@ color: #fff;
 #buttons:hover{
     background-color: #265df2;
 }
-
-
 /* For devices with a max width of 480px (Mobile Phones) */
 @media (max-width: 480px) 
 {
@@ -462,27 +459,24 @@ display:none;
     border-top: hwb(138 1% 85% / 0.815) 5px solid;
 }
 footer img{
-    width: 45px;
-    height:45px;
+    width: 60px;
+    height:60px;
     float: left;
     padding-left:2px;
-    border-radius:15px;
+    border-radius:10px;
     box-sizing: border-box;
-    background-color:green;
 }
 footer p{
     text-align: center;
     font: 1em sans-serif;
     margin:2;
     text-transform: uppercase;
-    color:red;
 } 
 footer h3{
     text-align: center;
     font: 0.8em sans-serif;
     text-transform: uppercase ;
 }
-
 footer a{
     color: white;
     text-decoration: none;
@@ -500,38 +494,34 @@ footer li{
 .nefor-logo1{
     width:20px;
     float: left; 
-    width:10px;
-    background-color: red:
 }
 .nefor-logo2{
-    width:15px;
+    width:20px;
     float: right; 
 }
 .nefor-logo1 img{
     width:50px;
-    height:30px;
+    height:50px;
 }
 .nefor-logo2 img{
-    width:30px;
-    height:;50px
+    width:50px;
+    height:50px
     padding-top: 0;
 }
 /*footer social media*/
 .button{
     display:block;
-    height:30px;
-    width:30px;
-    max-width: 15px;
+    height:40px;
+    width:40px;
+    max-width:10px;
     overflow: hidden;
     background:hsl(139, 91%, 9%);
     border-radius: 20px;
     cursor: pointer;
     box-shadow: 0px 10px 10px rgb(0, 0, 0 0.1);
     transition: all 0.3s ease-out;
-    margin-left:1px;
     align-items: center;
      margin-left:10px;
-    background-color:red;
 }
 .wrapper .button:hover{
     width:30px;
@@ -545,7 +535,6 @@ footer li{
     display:block;
     height: 20px;
     width: 20px;
-    text-align: center;
     border-radius: 100px;
     box-sizing: border-box;
     line-height: 20px;
@@ -556,6 +545,7 @@ footer li{
 
 
 }*/
+
 
 
 
