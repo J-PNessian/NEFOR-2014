@@ -143,7 +143,6 @@ footer{
     /*border-bottom: hwb(138 1% 85% / 0.815) 10px solid;*/
     border-top: hwb(138 1% 85% / 0.815) 5px solid;
 }
-
 footer img{
     width: 65px;
     height: 55px;
@@ -152,7 +151,6 @@ footer img{
     border-radius: 15px;
     box-sizing: border-box;
 }
-
 footer p{
     text-align: center;
     font: 1em sans-serif;
@@ -449,7 +447,6 @@ h2{
 .description{
     text-align: justify;
 }
-
 /*thi is a link buttons*/
 .section {
     height: 100vh;
@@ -467,7 +464,6 @@ color: #fff;
     transition: all 0.3s ease;
     box-sizing: border-box;
     height: 20px;
-
 }
 #buttons a {
     color: #ffffff;
@@ -514,17 +510,19 @@ color: #fff;
 @media (max-width: 480px) {
     /*footer social*/
 .button{
-    display: inline-block;
-    height: 10px;
-    width: 10px;
-    max-width: 0 3px;
+    display:block;
+    height:40px;
+    width:40px;
+    max-width: 15px;
     overflow: hidden;
     background:hsl(139, 91%, 9%);
-    border-radius: 35px;
+    border-radius: 30px;
     cursor: pointer;
     box-shadow: 0px 10px 10px rgb(0, 0, 0 0.1);
     transition: all 0.3s ease-out;
-    margin-left: 150px;
+    margin-left:1px;
+    align-items: center;
+     margin-left:5px;
 }
     header img {
         width:50px;
@@ -668,22 +666,7 @@ footer li{
     height:;50px
     padding-top: 0;
 }
-/*footer social media*/
-.button{
-    display:block;
-    height:40px;
-    width:40px;
-    max-width: 15px;
-    overflow: hidden;
-    background:hsl(139, 91%, 9%);
-    border-radius: 30px;
-    cursor: pointer;
-    box-shadow: 0px 10px 10px rgb(0, 0, 0 0.1);
-    transition: all 0.3s ease-out;
-    margin-left:1px;
-    align-items: center;
-     margin-left:5px;
-}
+
 .wrapper .button:hover{
     width:50px;
 }
@@ -703,6 +686,7 @@ footer li{
     transition: all 0.3s ease-out;
 }
 }
+
 
 
 
