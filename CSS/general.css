@@ -204,13 +204,12 @@ footer li{
     width: 35px;
     max-width: 0 3px;
     overflow: hidden;
-    /*background:hsl(139, 91%, 9%);*/
+    background:hsl(139, 91%, 9%);
     border-radius: 35px;
     cursor: pointer;
     box-shadow: 0px 10px 10px rgb(0, 0, 0 0.1);
     transition: all 0.3s ease-out;
-    margin-left:50px;
-    background-color:red;
+    margin-left:150px;
 }
 .wrapper .button:hover{
     width: 200px;
@@ -512,17 +511,15 @@ color: #fff;
     /*footer social*/
 .button{
     display:block;
-    height:40px;
-    width:40px;
+    height:35px;
+    width:35px;
     overflow: hidden;
-   /* background:hsl(139, 91%, 9%);*/
-    border-radius: 30px;
+   background:hsl(139, 91%, 9%);
+    border-radius: 20px;
     cursor: pointer;
     box-shadow: 0px 10px 10px rgb(0, 0, 0 0.1);
     transition: all 0.3s ease-out;
-    margin-left:1px;
-    align-items: center;
-    background-color:red;
+   /* align-items: center;*/
      margin-left:5px;
 }
     header img {
@@ -687,6 +684,7 @@ footer li{
     transition: all 0.3s ease-out;
 }
 }
+
 
 
 
