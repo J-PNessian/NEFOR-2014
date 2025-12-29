@@ -522,6 +522,7 @@ color: #fff;
     transition: all 0.3s ease-out;
     margin-left:1px;
     align-items: center;
+    background-color:red;
      margin-left:5px;
 }
     header img {
@@ -686,6 +687,7 @@ footer li{
     transition: all 0.3s ease-out;
 }
 }
+
 
 
 
