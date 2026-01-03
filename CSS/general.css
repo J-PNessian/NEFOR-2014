@@ -664,12 +664,11 @@ footer li{
 }
 
 .wrapper .button:hover{
-    width:50px;
+   /* width:50px;*/
 }
 .wrapper{
-    margin-left:10px;
+    margin-right:10px;
    width: 100%;
-    background-color:red;
     float:right;
 }
 .wrapper .button .icon{
@@ -683,6 +682,7 @@ footer li{
     transition: all 0.3s ease-out;
 }
 }
+
 
 
 
