@@ -28,8 +28,7 @@ nav li{
     float: left;
     display: inline;
     padding: 0 10px 0 10px;
-}
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+}                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
 header #branding{
     float: left;
 }
@@ -255,6 +254,7 @@ color: #fff;
 #buttons:hover{
     background-color: #265df2;
 }
+
 /* For devices with a max width of 480px (Mobile Phones) */
 @media (max-width: 480px) 
 {
@@ -296,7 +296,6 @@ color: #fff;
     margin: 0 5px;
     overflow: hidden;
     border-radius:15px;
-
 }
 .card{
     border-radius:15px;
@@ -338,9 +337,9 @@ color: #fff;
 }
 .card-image{
     position: relative;
-    height: 150px;
-    width:150px;
-    border-radius: 50%;
+    height: 140px;
+    width:140px;
+    border-radius: 40%;
     background-color: hsl(145, 85%, 29%);
     padding: 2px;
 }
@@ -364,7 +363,6 @@ color: #fff;
     text-indent: 0%;
     text-transform: bold;
 }
-
 .button-1{
     border: #ff0000;
     font-size: 13px;
@@ -389,6 +387,7 @@ color: #fff;
 }
 }
    
+
 
 
 
