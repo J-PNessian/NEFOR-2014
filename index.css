@@ -291,20 +291,16 @@ color: #fff;
     max-width:100px;
     width:100px;
     padding:2px;
-    background-color:red;
-   
 }
 .slide-content{
     margin: 0 5px;
     overflow: hidden;
     border-radius:15px;
-    background-color:black;
-  
+
 }
 .card{
     border-radius:15px;
     background-color:rgb(19, 170, 94);
-
 }
 .image-content,
 .card-content{
@@ -378,8 +374,7 @@ color: #fff;
     border-radius: 6px;
     margin:12px;
     cursor: pointer;
-    transition: all 0.3s ease;
-    
+    transition: all 0.3s ease;    
 }
 .swiper-navBtn{
     color: green;
@@ -394,6 +389,7 @@ color: #fff;
 }
 }
    
+
 
 
 
