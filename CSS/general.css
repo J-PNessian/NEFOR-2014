@@ -670,6 +670,7 @@ footer li{
     margin-left:10px;
    /* width: 100%;*/
     background-color:red;
+    float:left;
 }
 .wrapper .button .icon{
     display:block;
@@ -682,6 +683,7 @@ footer li{
     transition: all 0.3s ease-out;
 }
 }
+
 
 
 
