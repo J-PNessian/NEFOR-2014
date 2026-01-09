@@ -1,0 +1,474 @@
+body{
+    font: 15px/1.5 Arial, Helvetica, sans-serif;
+    padding: 0;
+    margin: 0;
+    background-color: hsl(187, 18%, 90%);
+  
+}
+/*header section*/
+
+
+/*end of Header*/
+/*NEFOR showcase*/
+#nefor-showcase{
+    min-height: 400px;
+    background: url("../img/img5.jpg") no-repeat 0 -600px;
+    text-align: center;
+    color: hwb(0 10% 90%);
+    padding-top: 2px;
+}
+#nefor-showcase img{
+    float:right;
+    width:50%;
+    height: 400px;
+    padding: 5px 4px 4px 4px ;
+}
+#nefor-showcase h3{
+    margin-top: 45px;
+    font-size: 20px;
+    margin-bottom: 16px;
+    text-transform: uppercase;
+    float: left;
+    padding-left:2px;
+   color: #1908d3;
+}
+#nefor-showcase p{
+    margin-top: 25px;
+    font-size: 27px;
+    float: left;
+    text-transform: bold;
+}
+#nefor-showcase.nefor-container2 img{
+    height:400px;
+    width: 400px;
+    background-color: #fe0303;
+}
+#nefor-showcase.nefor-container2{
+    float: left;
+     width:50%;
+    height: 400px;
+}
+#nefor-container3{
+    padding: 10PX;
+    color: #ffffff;
+    background: #354243;
+}
+#nefor-container3 h2{
+    float: left;
+    width: 50%;
+    margin-top: 0;
+}
+
+/*excutive summary*/
+.EX{
+    text-transform: uppercase;
+    font-size: 20px;
+    text-align: center;
+    font-weight: bolder;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+}
+.NeFOR{
+    padding: 5px;
+    background-color: lch(90.66% 0.36 17.73);
+    align-items: center;
+}
+.NeFOR p{
+    text-align: center;
+    font-weight: bold;
+    font: 1em sans-serif;
+}
+.j2{
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bolder;
+    font-size: 40px;
+    margin-top:100px;
+    color: #ffffff;
+}
+/*end of excutive summary*/
+#nefor-container3 form{
+    float: right;
+    
+}
+.slide-container{
+    max-width: 1110px;
+    width: 90%;
+    padding: 40px;
+}
+.slide-content{
+    margin: 0 40px;
+    overflow: hidden;
+    border-radius: 30px;  
+}
+.card{
+    border-radius: 30px;
+    background-color:rgb(208, 218, 213);
+}
+.image-content,
+.card-content{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px 14px;
+}
+.card-content span{
+    color: green;
+}
+.image-content{
+    position: relative;
+    row-gap: 5px;
+    padding: 25px 0;
+}
+.overlay{
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    background-color: green;
+    border-radius: 25px 25px 0 25px;
+}
+.overlay::before,
+.overlay::after{
+    content: '';
+    position: absolute;
+    right: 0;
+    bottom: -40px;
+    height: 40px;
+    width: 40px;
+    background-color:green;
+}
+.overlay::after{
+    border-radius: 0 25px 0 0;
+    background-color:rgb(208, 218, 213);
+}
+.card-image{
+    position: relative;
+    height: 180px;
+    width: 180px;
+    border-radius: 50%;
+    background-color: hsl(145, 85%, 29%);
+    padding: 3px;
+}
+.card-image .card-img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    border-radius: 50%;
+    border: #4070fa;
+}
+.name{
+    font-size: 18px;
+    font-weight: 500;
+    color: #333;
+}
+.description{
+    font-size: 14px;
+    color:hwb(0 3% 97%);
+    text-align: center;
+    word-spacing: 0.1px;
+    text-indent: 0%;
+}
+.button-1{
+    border: #ff0000;
+    font-size: 16px;
+    color: #fff;
+    padding: 8px 16px;
+    background-color:darkgreen;
+    border-radius: 6px;
+    margin: 14px;
+    cursor: pointer;
+    transition: all 0.3s ease;  
+}
+.swiper-navBtn{
+    color: green;
+    transition: color 0.3s ease; 
+}
+.swiper-navBtn:hover{
+    color:green;
+}
+.swiper-navBtn::before,
+.swiper-navBtn::after{
+    font-size: 40px;
+}
+.swiper-button-next{
+    right: 0;
+}
+.swiper-button-prev{
+    left: 0;
+}
+.swiper-pagination-bullet{
+    background-color: #6E93f7;
+    opacity: 1;
+}
+.swiper-pagination-bullet-active{
+    background-color: #4070F4;
+}
+h2{
+    text-transform: uppercase;
+}
+.new{
+    color: #ff0000;
+}
+.description{
+    text-align: justify;
+}
+
+/*thi is a link buttons*/
+.section {
+    height: 100vh;
+    padding: 2em;
+}
+#buttons {
+display: flex;
+align-items: center;
+color: #fff;
+    padding: 3px 3px;
+    background-color:darkgreen;
+    border-radius:3px;
+    margin: 5px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    box-sizing: border-box;
+    height: 20px;
+}
+#buttons a {
+    color: #ffffff;
+    font-size: 12px;
+    padding: 1em;
+    text-decoration: none;
+}
+#buttons:hover{
+    background-color: #265df2;
+}
+
+/* For devices with a max width of 480px (Mobile Phones) */
+@media (max-width: 480px) 
+{
+    #nefor-showcase{
+    min-height: 300px;
+    background: url("../img/img5.jpg") no-repeat 0 -500px;
+    text-align: center;
+    color: hwb(0 10% 90%);
+    padding-top: 2px;
+}
+#nefor-showcase img{
+    float:right;
+    width:40%;
+    height:300px;
+    padding: 2px 2px 2px 2px ;
+}
+#nefor-container2 img{
+    float:left;
+    width:40%;
+    height:300px;
+    padding: 2px 2px 2px 2px ;
+}
+#nefor-showcase h3{
+    margin-top:5px;
+    font-size: 10px;
+    margin-bottom:5px;
+    text-transform: uppercase;
+    float: left;
+    padding-left:2px;
+     text-transform: bold;
+   color: #1908d3;
+}
+#nefor-showcase p{
+    margin-top:7px;
+    font-size:10px;
+    float: left;
+    text-transform: bold;
+}
+    .slide-container{
+    max-width:100px;
+    width:100px;
+    padding:2px;
+}
+/* try*/
+    
+
+.slide-container{
+    max-width:400px;
+    width:100%;
+    padding:10px;
+   
+}
+.slide-content{
+    margin: 0 10px;
+    overflow: hidden;
+    border-radius:15px;  
+  
+}
+.card{
+    border-radius:15px;
+    background-color:rgb(19, 170, 94);
+
+}
+.image-content,
+.card-content{
+    align-items: center;
+    padding:5px 10px;
+}
+.card-content span{
+    color: green;
+}
+.image-content{
+    position: relative;
+}
+.overlay{
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 50%;
+    width: 100%;
+    background-color: green;
+    border-radius: 10px 10px 0 25px;
+}
+.overlay::before,
+.overlay::after{
+    content: '';
+    position: absolute;
+    right: 0;
+    bottom: -20px;
+    height: 20px;
+    width: 20px;
+    background-color:green;
+}
+.overlay::after{
+    border-radius: 0 25px 0 0;
+    background-color:rgb(212, 218, 208);
+}
+
+    
+
+    /*
+.slide-content{
+    margin: 0 5px;
+    overflow: hidden;
+    border-radius:15px;
+}
+.card{
+    border-radius:25px;
+    background-color:rgb(19, 170, 94);
+}
+.image-content,
+.card-content{
+    align-items: center;
+    padding:1px 1px;
+}
+.card-content span{
+    color: green;
+}
+.image-content{
+    position: absolutel;
+}
+.overlay{
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 50%;
+    width: 100%;
+    background-color: green;
+    border-radius: 10px 10px 0 25px;
+}
+.overlay::before,
+.overlay::after{
+    content: '';
+    position: absolute;
+    right: 0;
+    bottom: -20px;
+    height: 20px;
+    width: 20px;
+    background-color:green;
+}
+.overlay::after{
+    border-radius: 0 25px 0 0;
+    background-color:rgb(212, 218, 208);
+}
+
+    */
+.card-image{
+    position: relative;
+    height: 140px;
+    width:140px;
+    border-radius: 40%;
+    background-color: hsl(145, 85%, 29%);
+    padding: 2px;
+}
+.card-image .card-img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    border-radius: 50%;
+    border: #fa4040;
+}
+.name{
+    font-size:12px;
+    font-weight: 100px;
+    color:rgb(14, 2, 3);
+}
+.description{
+    font-size: 12px;
+    color:hwb(0 3% 97%);
+    text-align: center;
+    word-spacing: 0.1px;
+    text-indent: 0%;
+    text-transform: bold;
+     text-orientation: initial;
+}
+.button-1{
+    border: #ff0000;
+    font-size: 13px;
+    color: #fff;
+    padding: 8px 8px;
+    background-color:darkgreen;
+    border-radius: 6px;
+    margin:12px;
+    cursor: pointer;
+    transition: all 0.3s ease;    
+}
+.swiper-navBtn{
+    color: green;
+    transition: color 0.3s ease; 
+}
+.swiper-navBtn:hover{
+    color:green;
+}
+.swiper-navBtn::before,
+.swiper-navBtn::after{
+    font-size: 15px;
+}
+}
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
